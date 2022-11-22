@@ -1,0 +1,4 @@
+config.py
+config_testnet.py
+__pycache__/
+.vscode/
